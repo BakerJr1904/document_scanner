@@ -1,2 +1,2 @@
-# document_scanner
+# Document Scanner
 Find fake documents
